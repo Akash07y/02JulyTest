@@ -73,10 +73,10 @@ public class Test {
 		});
 		
 		
-		// findElelemnts 
-		// How to find the all broken links 
-		// Tagname -> a      xpath -> "//a"     tagname -> "a"
-		// Attribute -> href 
+		 findElelemnts 
+		 How to find the all broken links 
+		 Tagname -> a      xpath -> "//a"     tagname -> "a"
+		 Attribute -> href 
 		
 		// How to find the all broken images 
 		// Tagname -> img      xpath -> "//img"     tagname -> "img"
